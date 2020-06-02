@@ -1,3 +1,5 @@
 # Chat-app
 
-This is a simple chat web application
+This is a simple nodejs chat web application
+
+
